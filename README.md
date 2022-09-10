@@ -52,3 +52,6 @@ Cannot read properties of undefined (reading 'hooks')
 "ts-loader": "5.2.2",
 "typescript": "^4.2.3",
 ```
+
+## Memo
+The last version that `ts-loader` still support `webpack4` is `8.2.0`
