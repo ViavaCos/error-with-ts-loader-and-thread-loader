@@ -376,6 +376,9 @@ module.exports = function (webpackEnv) {
                 },
                 {
                     loader: "ts-loader",
+                    options: {
+                      happyPackMode: true
+                    }
                 },
               ]
             },
